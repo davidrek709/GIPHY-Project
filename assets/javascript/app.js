@@ -37,7 +37,7 @@ function removeLastButton(){
 
 function displayGifs(){
     var action = $(this).attr("data-name");
-    var queryURL = 'http://api.giphy.com/v1/gifs/search?q=' + action + "&api_key=O9ULKQPpSekZ3YW8mSXTWwSWA3SkJ7DT";
+    var queryURL = 'https://api.giphy.com/v1/gifs/search?q=' + action + "&api_key=O9ULKQPpSekZ3YW8mSXTWwSWA3SkJ7DT";
     console.log(queryURL); 
     $.ajax({
         url: queryURL,
