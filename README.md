@@ -27,3 +27,5 @@ Depending on the button clicked, that will send out an AJAX call using the appro
 Given the JSON response object, we must then parse through it to display in the HTML using jQuery and the general principle of DOM manipulation
 
 HTML and CSS were used to style and give the page its basic structure
+
+![Image description]()
