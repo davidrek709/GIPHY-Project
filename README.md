@@ -28,4 +28,4 @@ Given the JSON response object, we must then parse through it to display in the 
 
 HTML and CSS were used to style and give the page its basic structure
 
-![Image description]()
+![Image description](https://github.com/davidrek709/Giphy-Project/blob/master/Annotation%202020-03-29%20184838.png)
