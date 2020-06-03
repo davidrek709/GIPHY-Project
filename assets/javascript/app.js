@@ -74,7 +74,7 @@ function displayGifs(){
 displayGifButtons(); 
 addNewButton();
 removeLastButton();
-
+// onclick functional and animating gifs
 $(document).on("click", ".action", displayGifs);
 $(document).on("click", ".image", function(){
     var state = $(this).attr('data-state');
