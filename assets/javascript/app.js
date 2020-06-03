@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
 var actions = ["Pandas", "Cats", "Dogs", "Lion", "Penguin", "Wolf"];
-
+// for loop set
 function displayGifButtons(){
     $("#gifButtonsView").empty(); 
     for (var i = 0; i < actions.length; i++){
