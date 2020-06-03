@@ -20,6 +20,7 @@ img {
     float: left;
     margin: 3px;
 }
+/* oppacity set to allow for sight with padding for structure */
 .container {
 	background-color: #fff;
 	opacity: 0.8;
