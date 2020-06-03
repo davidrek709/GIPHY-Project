@@ -34,7 +34,7 @@ function removeLastButton(){
     return false;
     });
 }
-
+// display functionality 
 function displayGifs(){
     var action = $(this).attr("data-name");
     var queryURL = 'https://api.giphy.com/v1/gifs/search?q=' + action + "&api_key=O9ULKQPpSekZ3YW8mSXTWwSWA3SkJ7DT";
