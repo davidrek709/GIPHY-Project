@@ -87,3 +87,4 @@ $(document).on("click", ".image", function(){
     }
 });
 });
+// last check no error or console.log messages
