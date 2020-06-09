@@ -1,4 +1,4 @@
-# Giphy-Project
+# Giphy-Application
 
 https://davidrek709.github.io/Giphy-Project/
 
